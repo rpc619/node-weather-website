@@ -1,5 +1,5 @@
 console.log('Client side java script is loaded.')
-const httpEndPointUrl = 'http://localhost:3000/weather?'
+const httpEndPointUrl = '/weather?'
 
 const weatherForm = document.querySelector('form')
 const searchInput = document.querySelector('input')
